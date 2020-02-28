@@ -1,0 +1,9 @@
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\bin\Debug\netcoreapp2.2\PaymentCalculator.Core.deps.json
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\bin\Debug\netcoreapp2.2\PaymentCalculator.Core.dll
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\bin\Debug\netcoreapp2.2\PaymentCalculator.Core.pdb
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\obj\Debug\netcoreapp2.2\PaymentCalculator.Core.csprojAssemblyReference.cache
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\obj\Debug\netcoreapp2.2\PaymentCalculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\obj\Debug\netcoreapp2.2\PaymentCalculator.Core.AssemblyInfoInputs.cache
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\obj\Debug\netcoreapp2.2\PaymentCalculator.Core.AssemblyInfo.cs
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\obj\Debug\netcoreapp2.2\PaymentCalculator.Core.dll
+C:\Users\imanm\source\repos\PaymentCalculator\PaymentCalculator.Core\obj\Debug\netcoreapp2.2\PaymentCalculator.Core.pdb

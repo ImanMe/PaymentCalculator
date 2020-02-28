@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+label {
+  margin-bottom: -0.5rem;
+}
+
+.readonly {
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+}
+.badge-secondary {
+  color: white;
+  background-color: purple;
+}
+
+input[readonly] {
+  background-color: white !important;
+}
